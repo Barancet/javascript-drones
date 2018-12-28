@@ -69,4 +69,5 @@ Please hack on it and make your own cool things.
 * [Some Japanese Developer Figured out how to get video working with WebRTC](https://qiita.com/a-baba/items/d728d580f89473c5fd18)
 * Link your repo here for others to learn!
 
-
+## testing new things
+* some of the new things i'll be adding:
